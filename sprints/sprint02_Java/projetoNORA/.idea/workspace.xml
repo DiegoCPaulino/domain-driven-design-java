@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c45ec233-12ba-479d-ba8a-291afe0bf07d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/ProjetoHeranca.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/src/br/com/fiap/entities/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/src/br/com/fiap/entities/Colaborador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/src/br/com/fiap/entities/Endereco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/src/br/com/fiap/entities/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoHeranca/src/br/com/fiap/main/TesteSistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/ProjetoMaisMetodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/src/br/com/fiap/entities/Colaborador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/src/br/com/fiap/entities/Empresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/src/br/com/fiap/entities/Endereco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoMaisMetodos/src/br/com/fiap/main/TesteSistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoNORA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nora/entities/paciente.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="34nVui7IYpxAT9n3r0TKKPRpTQp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TesteAgendamento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestePaciente.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Diego/Documents/programacao/faculdade/java/sprints/sprint02_Java/projetoNORA&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c45ec233-12ba-479d-ba8a-291afe0bf07d" name="Changes" comment="" />
+      <created>1761849549706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761849549706</updated>
+    </task>
+    <servers />
+  </component>
+</project>
