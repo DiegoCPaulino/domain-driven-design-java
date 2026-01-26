@@ -38,9 +38,9 @@ O repositório possui caráter **educacional e técnico**, servindo como base de
 A organização do repositório segue uma separação lógica por tipo de conteúdo:
 
 - **/aulas** — Conteúdos, exemplos e códigos desenvolvidos durante as aulas
-- **/atividades** — Exercícios práticos e listas de fixação
-- **/trabalhos** — Trabalhos avaliativos e projetos da disciplina
-- **/provas** — Avaliações e resoluções
+- **/conteudo** — Exercícios práticos e listas de fixação
+- **/sprints e /globalSolution** — Trabalhos avaliativos e projetos da disciplina
+- **/checkpoint** — Avaliações e resoluções
 
 Essa estrutura permite fácil navegação, manutenção e acompanhamento da evolução técnica.
 
